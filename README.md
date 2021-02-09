@@ -2,6 +2,8 @@
 ## Project 1 - Cocos2D game
 #### Created by: Jacob Scheetz
 
+![mario](mario.png)
+
 ## Description
 
 This is a simple python game developed with cocos2d. The objective of this game is to move the sprite to the objective three separate times to win the game. This idea was inspired by the common "platformer" stlye of game. This game uses different classes to demonstrate encapsulation and inheritance in an object oriented format following game logic. 
@@ -26,6 +28,8 @@ The following resources were used to get a good foundation of how cocos2d is str
 - https://github.com/liamrahav/cocos2d-python-tutorials
 - http://python.cocos2d.org/doc.html
 - http://python.cocos2d.org/doc/api/cocos.html
+
+
 
 
 
